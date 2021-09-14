@@ -4,15 +4,20 @@ This tutorial was bootstrapped with [Create React App](https://github.com/facebo
 
 Click here to view the [Live Demo](https://compassionate-villani-96963b.netlify.app/).
 
-
 ## Available Scripts
 
 In the project directory, you can run:
 
 ### `REACT_APP_GOOGLE_CLIENT_ID=XXXXXXXXXX npm start`
 
+### follow these instructions
+
+https://www.quod.ai/post/how-to-integrate-google-api-into-your-react-app
+
+### remember to download and run ngrok (see instructions above), and set URL to ngrok proxy https url, instead of localhost:3000
+
 Runs the app in the development mode.\
-Replace `XXXXXXXXXX` with your Google Client ID. 
+Replace `XXXXXXXXXX` with your Google Client ID.
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.\
